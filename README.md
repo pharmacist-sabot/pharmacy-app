@@ -58,7 +58,7 @@ pharmacy-app/
 1.  **Clone the repository**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/pharmacist-sabot/pharmacy-app.git
     cd pharmacy-app
     ```
 
